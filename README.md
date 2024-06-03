@@ -1,8 +1,19 @@
 # Based Engine
 
-Based on what? Based Engine is a 3D OpenGL "engine" written in modern C++. The goal is to create a 3D playground that allows users to easily interact and implement various graphics features. My previous project [Lean Renderer](https://github.com/matekdev/lean-renderer) was written with the same intention... however adding new functionality without ECS proved to be cumbersome.
+Based on what? Based Engine is my attempt at learning graphics programming. The goal is to create a 3D playground that allows me to easily interact and implement various graphics features. I started Based Engine on OpenGL which is the branch you are currently viewing. I wrote over ~14 blogs documenting my journey as I went through [LearnOpenGL](https://learnopengl.com/) to learn and implement various features. Here is an incomplete list with direct links to the blog posts.
 
-I have written many [blog posts](https://matek.dev/blog/) describing my learning process and implementation details of various features for this engine.
+- [Object Picking](https://matek.dev/blog/basedlogs-1/)
+- [Shadowmaps](https://matek.dev/blog/basedlogs-14/)
+- [Blinn-Phong Lighting](https://matek.dev/blog/basedlogs-13/)
+- [Phong Lighting](https://matek.dev/blog/basedlogs-2/)
+- [Multiple Light Sources](https://matek.dev/blog/basedlogs-4/)
+- [Directional, point, and spot lights](https://matek.dev/blog/basedlogs-5/)
+- [Framebuffers](https://matek.dev/blog/basedlogs-9/)
+- [Transparency](https://matek.dev/blog/basedlogs-11/)
+- [Cubemaps](https://matek.dev/blog/basedlogs-12/)
+
+![EX](screenshots/ex1.jpg)
+![EX2](screenshots/ex2.jpg)
 
 ## Libraries
 

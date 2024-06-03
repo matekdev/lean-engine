@@ -1,6 +1,6 @@
 # Based Engine
 
-Based on what? Based Engine is my attempt at learning graphics programming. The goal is to create a 3D playground that allows me to easily interact and implement various graphics features. I started Based Engine on OpenGL which is the branch you are currently viewing. I wrote over ~14 blogs documenting my journey as I went through [LearnOpenGL](https://learnopengl.com/) to learn and implement various features. Here is an incomplete list with direct links to the blog posts.
+Based on what? Based Engine is my attempt at learning graphics programming. The goal is to create a 3D playground that allows me to easily interact and implement various graphics features. I started Based Engine on OpenGL which is the branch you are currently viewing. I wrote over ~14 blogs documenting my journey as I went through [LearnOpenGL](https://learnopengl.com/) to learn and implement various features. After implementing a majority of the features I decided to continue my progress in DX11. Here is an incomplete list with direct links to the blog posts.
 
 - [Object Picking](https://matek.dev/blog/basedlogs-1/)
 - [Shadowmaps](https://matek.dev/blog/basedlogs-14/)

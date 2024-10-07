@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.28)
 
-project(based-engine LANGUAGES CXX)
+project(lean-engine LANGUAGES CXX)
 
 # source files
 set(SRC_DIR ${PROJECT_SOURCE_DIR}/src)
